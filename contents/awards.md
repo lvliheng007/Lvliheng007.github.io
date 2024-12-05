@@ -1,6 +1,12 @@
-    \item National Scholarship - \textbf{Top 1\%} \hfill (Jilin University, 2023)
-\item Huawei Scholarship - \textbf{Top 1\%} \hfill (Huawei, 2023)
-\item Academic Excellence Scholarship \hfill (Jilin University, 2023)
-\item Outstanding Postgraduate Scholarship \hfill (Jilin University, 2023)
-\item First-Class Outstanding Graduate Student Award \hfill (Jilin University, 2023)
-\item Academic Excellence Scholarship \hfill (Jilin University, 2021)
+- National Scholarship - <strong>Top 1\%</strong>  (Jilin University, 2023)
+
+- Huawei Scholarship - <strong>Top 1\%</strong>  (Huawei, 2023)
+
+- Academic Excellence Scholarship (Jilin University, 2023)
+
+- Outstanding Postgraduate Scholarship (Jilin University, 2023)
+
+- First-Class Outstanding Graduate Student Award  (Jilin University, 2023)
+
+- Academic Excellence Scholarship  (Jilin University, 2021)
+

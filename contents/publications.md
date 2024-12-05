@@ -1,10 +1,8 @@
-\begin{itemize}[parsep=0.5ex]
-  \item Liu G, \textbf{Lv L}, Wang C, et al. Closed-Loop Learning for Accuracy Improvement of Non-Intrusive Load Monitoring in Smart Homes[J]. \textbf{IEEE Transactions on Instrumentation and Measurement}, 2023.  \href{https://ieeexplore.ieee.org/abstract/document/10225311}{\textcolor{blue}{Link}}
-  
-   \item Liu G, \textbf{Lv L}, Wang C, et al. Attention-Enhanced Actor-Critic Learning for Household Nonintrusive Load Monitoring. \textbf{IEEE Transactions on Industrial Informatics}, 2024.
-    \href{https://ieeexplore.ieee.org/document/10673806}{\textcolor{blue}{Link}} 
-  \item Liu G, Wang H, Wang C, Yang L, \textbf{Lv L}, Li J. Federated Double Deep Q-Networks for Unbalanced Material Classification in Tactile Internet. \textbf{IEEE Transactions on Industrial Informatics}, 2024. 
-  \href{https://ieeexplore.ieee.org/document/10680884}{\textcolor{blue}{Link}}
-    \item Zhang L, Wang H, Yang L, Liu G, Wang C, \textbf{Lv L}. Federated Closed-Loop Learning for Cross-modal Generation of Tactile Friction in Tactile Internet. \textbf{IEEE Internet of Things Journal}, 2024. 
-  \href{https://ieeexplore.ieee.org/document/10745526}{\textcolor{blue}{Link}}
-\end{itemize}
+- Zhang L, Wang H, Yang L, Liu G, Wang C, <strong>Lv L</strong>. (2024). Federated Closed-Loop Learning for Cross-modal Generation of Tactile Friction in Tactile Internet. <strong>IEEE Internet of Things Journal</strong>. [[Paper]]({https://ieeexplore.ieee.org/document/10745526)
+
+- Liu G, Wang H, Wang C, Yang L, <strong>Lv L</strong>, Li J. (2024). Federated Double Deep Q-Networks for Unbalanced Material Classification in Tactile Internet. <strong>IEEE Transactions on Industrial Informatics</strong>. [[Paper]](https://ieeexplore.ieee.org/document/10680884)
+
+- Liu G, <strong>Lv L</strong>, Wang C, et al. (2024). Attention-Enhanced Actor-Critic Learning for Household Nonintrusive Load Monitoring. <strong>IEEE Transactions on Industrial Informatics</strong>. [[Paper]](https://ieeexplore.ieee.org/document/10673806)
+
+- Liu G, <strong>Lv L</strong>, Wang C, et al. (2023). Closed-Loop Learning for Accuracy Improvement of Non-Intrusive Load Monitoring in Smart Homes[J]. <strong>IEEE Transactions on Instrumentation and Measurement</strong>. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10225311)
+
