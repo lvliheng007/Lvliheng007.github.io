@@ -1,13 +1,6 @@
-- National Scholarship of Graduate Student, 2024.
-
-- First-prize Scholarship of CUMT, 2024.
-
-- First-prize Scholarship of CUMT, 2023.
-
-- Freshman Scholarship of CUMT, 2022.
-
-- Excellent Graduation Project of Jiangsu Province, 2022.
-
-- First-prize Enterprise Scholarship of CUMT, 2020.
-
-- First-prize Scholarship of CUMT, 2019.
+    \item National Scholarship - \textbf{Top 1\%} \hfill (Jilin University, 2023)
+\item Huawei Scholarship - \textbf{Top 1\%} \hfill (Huawei, 2023)
+\item Academic Excellence Scholarship \hfill (Jilin University, 2023)
+\item Outstanding Postgraduate Scholarship \hfill (Jilin University, 2023)
+\item First-Class Outstanding Graduate Student Award \hfill (Jilin University, 2023)
+\item Academic Excellence Scholarship \hfill (Jilin University, 2021)

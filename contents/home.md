@@ -1,16 +1,17 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![lvliheng007](https://img.shields.io/badge/lvliheng007-github-blue?logo=github)](https://github.com/lvliheng007/Lvliheng007.github.io)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+ I obtained a Master of Science degree in Engineering from Jilin University in China. I am preparing to apply for a PhD in America.
 
 #### Email
-sli[at]cumt.edu.cn
+lvlh21[at]mails.jlu.edu.cn & a982139399[at]gmail.com (preferred)
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.E., Communication Engineering, Jilin University, 2021-2024.\
+B.E., Electronic Information, Jilin University of Agriculture and Science, 2014-2018.
+
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Deep Learning, Reinforcement Learning, Control Theory, Generative AI.
 
