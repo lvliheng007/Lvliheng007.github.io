@@ -5,4 +5,3 @@
 - Liu G, <strong>Lv L</strong>, Wang C, et al. (2024). Attention-Enhanced Actor-Critic Learning for Household Nonintrusive Load Monitoring. <strong>IEEE Transactions on Industrial Informatics</strong>. [[Paper]](https://ieeexplore.ieee.org/document/10673806)
 
 - Liu G, <strong>Lv L</strong>, Wang C, et al. (2023). Closed-Loop Learning for Accuracy Improvement of Non-Intrusive Load Monitoring in Smart Homes[J]. <strong>IEEE Transactions on Instrumentation and Measurement</strong>. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10225311)
-1
